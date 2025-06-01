@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Camera preview, letterbox giữ tỉ lệ 640×640 -->
+    <androidx.camera.view.PreviewView
+        android:id="@+id/previewView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:scaleType="fitCenter"
+        app:implementationMode="compatible" />
+
+    <!-- Overlay chồng lên PreviewView -->
+    <com.example.myyolo.OverlayView
+        android:id="@+id/overlayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Container ngang ở đáy chứa TextView + Button -->
+    <LinearLayout
+        android:id="@+id/bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:background="#80000000">
+
+        <!-- TextView hiển thị label, chiếm hết không gian còn lại -->
+        <TextView
+            android:id="@+id/objectNameTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Detected Object: None"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <!-- Button nằm bên phải -->
+        <Switch
+            android:id="@+id/switchSound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Âm thanh"
+            android:checked="true"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+</FrameLayout>

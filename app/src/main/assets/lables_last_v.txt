@@ -1,0 +1,51 @@
+Bắt đầu khu dân cư
+Bến xe buýt
+Cấm đi ngược chiều
+Cấm đỗ xe
+Cấm đỗ xe ngày lễ
+Cấm dừng và đỗ xe
+Cấm quay đầu xe
+Cấm rẽ phải
+Cấm rẽ trái
+Cấm rẽ trái và quay đầu xe
+Cấm sử dụng còi
+Cấm vượt
+Cấm xe 2 bánh và 3 bánh
+Cấm xe 3 bánh, xe thô sơ
+Cấm xe máy rẽ phải
+Cấm xe ô tô
+Cấm xe ô tô khách, xe tải
+Cấm xe ô tô rẽ phải
+Cấm xe ô tô rẽ trái
+Cấm xe ô tô tải
+Chỉ dẫn hướng đường
+Chiều cao tĩnh không thực tế
+Chỗ ngoặt nguy hiểm vòng bên phải
+Chỗ ngoặt nguy hiểm vòng bên trái
+Chỗ quay xe
+Đi chậm
+Dừng lại
+Đường bị thu hẹp
+Đường cấm
+Đường có gờ giảm tốc
+Đường đang thi công
+Đường giao nhau cùng cấp
+Đường hai chiều
+Đường người đi bộ cắt ngang
+Đường sắt giao nhau với đường bộ
+Giao nhau có tín hiệu đèn
+Giao nhau với đường không ưu tiên
+Giao nhau với đường sắt có rào chắn
+Giao nhau với đường ưu tiên
+Gộp làn theo phương tiện
+Hạn chế chiều cao
+Hạn chế tải trọng trên trục
+Hạn chế tải trọng xe
+Hết hạn chế tốc độ tối đa
+Hướng đi trên mỗi làn phải đi theo
+Hướng phải đi theo
+Nơi giao nhau chạy theo vòng xuyến
+Tốc độ tối đa cho phép
+Trạm xá, bệnh viện
+Trẻ em
+Xe chỉ được phép quẹo phải
